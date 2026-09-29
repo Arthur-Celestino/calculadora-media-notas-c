@@ -1,5 +1,7 @@
 # Calculadora de Média em C
 
+### Professora Karina Alves de Melo
+
 ## 📚 Sobre o Projeto
 
 Este projeto foi desenvolvido em linguagem C para calcular a média de duas notas, permitindo ao usuário escolher entre média aritmética e média ponderada.
@@ -32,8 +34,6 @@ Calcula a média considerando os pesos 3 e 7 para a primeira e a segunda nota, r
 `Média = (Nota 1 × 3 + Nota 2 × 7) / 10`
 
 ## 💻 Tecnologias Utilizadas
-
-### Professora Karina Alves de Melo
 
 * Linguagem C
 * Biblioteca `stdio.h`
